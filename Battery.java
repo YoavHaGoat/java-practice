@@ -23,5 +23,9 @@ public class Battery {
         System.out.println("put in batteryVolt");
         currentVolt=reader.nextDouble();
     }
+
+
+
+    
 }   
 }

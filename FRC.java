@@ -29,5 +29,8 @@ public class FRC {
         double timeToStopAtAccident= vMax/aAtAccident;
         System.out.println("time to stop at the accident"+ timeToStopAtAccident);
     }
+
+
+    
 }
 

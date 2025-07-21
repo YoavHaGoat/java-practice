@@ -4,11 +4,14 @@ public class BaseSensor {
         callibration=true;
         System.out.println("doing callibration");
     }
+
     public double getValue(){
         return Math.random();
     }
+
     public void restart(){
         System.out.println("doing restart");
     }
+    
 
 }
